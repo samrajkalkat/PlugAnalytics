@@ -1,0 +1,1696 @@
+{
+    "artists": [
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ac-slater/",
+            "text": "Ac Slater",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/AC-Slater-e1444114495815.jpg",
+            "image": "AC-Slater-e1444114495815.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 8:00pm  ",
+            "end_on": "Sun, 31 July 2016 9:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ac-slater/",
+            "text": "Ac Slater",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/AC-Slater-e1444114495815.jpg",
+            "image": "AC-Slater-e1444114495815.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 2:55pm  ",
+            "end_on": "Sun, 31 July 2016 3:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/alunageorge/",
+            "text": "ALUNAGEORGE",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/AlunaGeorge_PressPhoto-700x446.png",
+            "image": "AlunaGeorge_PressPhoto-700x446.png",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 6:20pm  ",
+            "end_on": "Sun, 31 July 2016 7:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/amine-edge-dance/",
+            "text": "Amine Edge & Dance",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/download.png",
+            "image": "download.png",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 6:00pm  ",
+            "end_on": "Sun, 31 July 2016 7:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/anderson-paak/",
+            "text": "ANDERSON .PAAK & THE FREE NATIONALS",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/anderson-paak_wide-c50fcd0444143b7d305718a1f28f9bcc5ec22255-700x394.jpg",
+            "image": "anderson-paak_wide-c50fcd0444143b7d305718a1f28f9bcc5ec22255-700x394.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 5:35pm  ",
+            "end_on": "Sat, 30 July 2016 6:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/andhim/",
+            "text": "ANDHIM",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/andhim_press_pic_2014_akward3-770x540-700x491.jpg",
+            "image": "andhim_press_pic_2014_akward3-770x540-700x491.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 6:00pm  ",
+            "end_on": "Sat, 30 July 2016 7:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ape-drums/",
+            "text": "APE DRUMS",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/IMG_0217-700x467.jpeg",
+            "image": "IMG_0217-700x467.jpeg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 2:00pm  ",
+            "end_on": "Sat, 30 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ardalan/",
+            "text": "Ardalan",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/A16-700x467.jpg",
+            "image": "A16-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 3:00pm  ",
+            "end_on": "Sat, 30 July 2016 4:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/autoerotique/",
+            "text": "AUTOEROTIQUE",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10830534_10153260438189887_6260982992596940145_o-700x467.jpg",
+            "image": "10830534_10153260438189887_6260982992596940145_o-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 1:00pm  ",
+            "end_on": "Sun, 31 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/baauer/",
+            "text": "Baauer",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Safaeian_X0A7680-resized-700x467.jpg",
+            "image": "Safaeian_X0A7680-resized-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 7:00pm  ",
+            "end_on": "Sat, 30 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/bear-grillz/",
+            "text": "BEAR GRILLZ",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/NewBear-700x700.png",
+            "image": "NewBear-700x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:55pm  ",
+            "end_on": "Sun, 31 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/belly/",
+            "text": "BELLY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/12814373_10153265299416854_3153707403844518333_n.png",
+            "image": "12814373_10153265299416854_3153707403844518333_n.png",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 8:10pm  ",
+            "end_on": "Sat, 30 July 2016 9:10pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/bixel-boys/",
+            "text": "BIXEL BOYS",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/PressPhoto1.jpg",
+            "image": "PressPhoto1.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 3:30pm  ",
+            "end_on": "Sun, 31 July 2016 5:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/bob-moses/",
+            "text": "BOB MOSES",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/bobmosespressphoto-700x467.jpg",
+            "image": "bobmosespressphoto-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 5:00pm  ",
+            "end_on": "Sun, 31 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/boys-noize/",
+            "text": "Boys Noize",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Boys-Noize2016-1084-700x467.jpg",
+            "image": "Boys-Noize2016-1084-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 8:15pm  ",
+            "end_on": "Sun, 31 July 2016 9:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/brodinski/",
+            "text": "Brodinski",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/cDimitri_Barclay-700x467.jpg",
+            "image": "cDimitri_Barclay-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 7:15pm  ",
+            "end_on": "Sun, 31 July 2016 8:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/claude-vonstroke/",
+            "text": "Claude Vonstroke",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/untitled-article-1414421334-700x394.jpg",
+            "image": "untitled-article-1414421334-700x394.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 9:45pm  ",
+            "end_on": "Sat, 30 July 2016 10:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/desiigner/",
+            "text": "DESIIGNER",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Desiigner_TIC_9_timvpl-700x467.jpg",
+            "image": "Desiigner_TIC_9_timvpl-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 7:40pm  ",
+            "end_on": "Sun, 31 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/destructo/",
+            "text": "Destructo",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/destructo1-700x700.jpg",
+            "image": "destructo1-700x700.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 5:05pm  ",
+            "end_on": "Sat, 30 July 2016 6:05pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dillon-francis/",
+            "text": "Dillon Francis",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/PressPhotoCover-700x700.png",
+            "image": "PressPhotoCover-700x700.png",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 8:05pm  ",
+            "end_on": "Sun, 31 July 2016 9:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dizzee-rascal/",
+            "text": "DIZZEE RASCAL",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Dizzee-Rascal-700x457.jpg",
+            "image": "Dizzee-Rascal-700x457.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 11:00pm  ",
+            "end_on": "Sat, 30 July 2016 undefined  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-dodger-stadium/",
+            "text": "DJ DODGER STADIUM",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/dj-dodger-stadium-700x394.jpg",
+            "image": "dj-dodger-stadium-700x394.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 4:30pm  ",
+            "end_on": "Sat, 30 July 2016 5:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-khaled/",
+            "text": "DJ KHALED",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/khaled-700x463.jpg",
+            "image": "khaled-700x463.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 4:30pm  ",
+            "end_on": "Sat, 30 July 2016 5:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-mustard/",
+            "text": "Dj Mustard",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "image": "Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 8:40pm  ",
+            "end_on": "Sun, 31 July 2016 9:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dombresky/",
+            "text": "DOMBRESKY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/12829203_754080701358550_2276817186814622210_o-700x417.jpg",
+            "image": "12829203_754080701358550_2276817186814622210_o-700x417.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 1:45pm  ",
+            "end_on": "Sat, 30 July 2016 2:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/drezo/",
+            "text": "DREZO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/drezo-700x467.jpg",
+            "image": "drezo-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 2:45pm  ",
+            "end_on": "Sat, 30 July 2016 3:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ekali/",
+            "text": "EKALI",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/flume-vince-staples-smoke-and-retribution-ekali-remix-0-700x467.jpg",
+            "image": "flume-vince-staples-smoke-and-retribution-ekali-remix-0-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 5:00pm  ",
+            "end_on": "Sun, 31 July 2016 6:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/fakear/",
+            "text": "FAKEAR",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/fakear-700x700.jpg",
+            "image": "fakear-700x700.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 1:20pm  ",
+            "end_on": "Sun, 31 July 2016 2:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/fat-joe/",
+            "text": "Fat Joe",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/fat-joe-at-hot-97-summer-jam-700x467.jpg",
+            "image": "fat-joe-at-hot-97-summer-jam-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 5:55pm  ",
+            "end_on": "Sun, 31 July 2016 6:25pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/felix-da-housecat/",
+            "text": "Felix Da Housecat",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/unnamed-12-700x700.jpg",
+            "image": "unnamed-12-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 8:30pm  ",
+            "end_on": "Sat, 30 July 2016 9:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/flosstradamus/",
+            "text": "Flosstradamus",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Floss-Press2015-700x467.jpg",
+            "image": "Floss-Press2015-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 10:00pm  ",
+            "end_on": "Sat, 30 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ghastly/",
+            "text": "Ghastly",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/12792121_945709592209843_2158359592506519097_o-700x467.jpg",
+            "image": "12792121_945709592209843_2158359592506519097_o-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 8:00pm  ",
+            "end_on": "Sat, 30 July 2016 9:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/graves/",
+            "text": "GRAVES",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10285801_302368813260702_8535052931048443290_o-700x467.jpg",
+            "image": "10285801_302368813260702_8535052931048443290_o-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 1:00pm  ",
+            "end_on": "Sat, 30 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/green-velvet/",
+            "text": "Green Velvet",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/green-velvet-700x700.jpg",
+            "image": "green-velvet-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 8:30pm  ",
+            "end_on": "Sun, 31 July 2016 9:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/haywyre/",
+            "text": "Haywyre",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/5-Nyc002-@-Best-Buy-Theater-Dani-Gol ein-picsbydani.com_-700x467.jpg",
+            "image": "5-Nyc002-@-Best-Buy-Theater-Dani-Gol ein-picsbydani.com_-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 3:40pm  ",
+            "end_on": "Sun, 31 July 2016 4:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/herobust/",
+            "text": "HEROBUST",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/heRobust-351-700x467.jpg",
+            "image": "heRobust-351-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 9:30pm  ",
+            "end_on": "Sat, 30 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ice-cube/",
+            "text": "ICE CUBE",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10443009_10152531964971265_7638716204454684085_o-700x557.jpg",
+            "image": "10443009_10152531964971265_7638716204454684085_o-700x557.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 8:35pm  ",
+            "end_on": "Sat, 30 July 2016 9:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/jackmaster/",
+            "text": "Jackmaster",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Richard-Johnson-Jackmaster-Parklife-2015-64453da0-0cb2-11e5-a38d-92ce347ad47a-Web-700x467.jpeg",
+            "image": "Richard-Johnson-Jackmaster-Parklife-2015-64453da0-0cb2-11e5-a38d-92ce347ad47a-Web-700x467.jpeg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 (;45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm)  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/jai-wolf/",
+            "text": "Jai Wolf",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Jai-Wolf-700x571.jpg",
+            "image": "Jai-Wolf-700x571.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 3:55pm  ",
+            "end_on": "Sun, 31 July 2016 4:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/jerry-folk/",
+            "text": "JERRY FOLK",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/IMG_0672-700x700.png",
+            "image": "IMG_0672-700x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 3:30pm  ",
+            "end_on": "Sat, 30 July 2016 4:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/josh-pan/",
+            "text": "JOSH PAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/josh-pan-2-700x467.jpg",
+            "image": "josh-pan-2-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 4:15pm  ",
+            "end_on": "Sat, 30 July 2016 5:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/justin-jay/",
+            "text": "Justin Jay",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/13087095_1029827767096265_6610071082121558868_o-700x464.jpg",
+            "image": "13087095_1029827767096265_6610071082121558868_o-700x464.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 5:00pm  ",
+            "end_on": "Sat, 30 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/justin-martin/",
+            "text": "Justin Martin",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/13086765_1054660221258152_5222996514132149668_o-700x467.jpg",
+            "image": "13086765_1054660221258152_5222996514132149668_o-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 5:00pm  ",
+            "end_on": "Sat, 30 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kaytranada/",
+            "text": "Kaytranada",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Kaytranada_PhotoByLiamMcCrae_2-1-700x700.png",
+            "image": "Kaytranada_PhotoByLiamMcCrae_2-1-700x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 9:45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kayzo/",
+            "text": "KAYZO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/kayzo-hands-1-700x467.png",
+            "image": "kayzo-hands-1-700x467.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 4:30pm  ",
+            "end_on": "Sun, 31 July 2016 5:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kid-jay/",
+            "text": "KID JAY",
+            "image_link": "",
+            "image": "",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 3:00pm  ",
+            "end_on": "Sun, 31 July 2016 4:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kill-the-noise/",
+            "text": "Kill The Noise",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Kill-The-Noise-700x469.jpeg",
+            "image": "Kill-The-Noise-700x469.jpeg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 4:55pm  ",
+            "end_on": "Sun, 31 July 2016 5:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kolombo/",
+            "text": "KOLOMBO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/kolombo-700x472.png",
+            "image": "kolombo-700x472.png",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 5:00pm  ",
+            "end_on": "Sun, 31 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/lil-uzi-vert/",
+            "text": "LIL UZI VERT",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/lil-uzi-vert-wiz-khalifa-2-chainz-countin-0-700x467.jpg",
+            "image": "lil-uzi-vert-wiz-khalifa-2-chainz-countin-0-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 6:45pm  ",
+            "end_on": "Sun, 31 July 2016 7:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/louis-futon/",
+            "text": "LOUIS FUTON",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/LF-30-700x467.jpg",
+            "image": "LF-30-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 1:55pm  ",
+            "end_on": "Sun, 31 July 2016 2:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/louis-the-child/",
+            "text": "LOUIS THE CHILD",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/LTC_1-700x467.jpg",
+            "image": "LTC_1-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 5:30pm  ",
+            "end_on": "Sat, 30 July 2016 6:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/lunice/",
+            "text": "Lunice",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Lunice_4-700x700.jpg",
+            "image": "Lunice_4-700x700.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 6:50pm  ",
+            "end_on": "Sat, 30 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/madeon/",
+            "text": "MADEON",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2015-01-15-at-15.29.41-700x700.png",
+            "image": "Screen-Shot-2015-01-15-at-15.29.41-700x700.png",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 8:15pm  ",
+            "end_on": "Sat, 30 July 2016 9:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/major-lazer/",
+            "text": "Major Lazer",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/MajorLazer_9-700x467.jpg",
+            "image": "MajorLazer_9-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 9:45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/malaa/",
+            "text": "MALAA",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/MALAA-PRESS-PHOTO.png",
+            "image": "MALAA-PRESS-PHOTO.png",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 3:00pm  ",
+            "end_on": "Sat, 30 July 2016 4:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/martin-buttrich/",
+            "text": "MARTIN BUTTRICH",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/unspecified-700x700.jpg",
+            "image": "unspecified-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 4:00pm  ",
+            "end_on": "Sun, 31 July 2016 5:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/mija/",
+            "text": "Mija",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/M2015-AW15-Mija-Infinitee-Apt-22-700x467.jpg",
+            "image": "M2015-AW15-Mija-Infinitee-Apt-22-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 4:05pm  ",
+            "end_on": "Sat, 30 July 2016 5:05pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/milo-otis/",
+            "text": "Milo & Otis",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/14021-700x467.jpg",
+            "image": "14021-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 9:30pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/mr-carmack/",
+            "text": "Mr. Carmack",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Mr-Carmack-Red-EP-Free-Download-700x450.jpg",
+            "image": "Mr-Carmack-Red-EP-Free-Download-700x450.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 8:55pm  ",
+            "end_on": "Sat, 30 July 2016 9:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/mura-masa/",
+            "text": "MURA MASA",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Mura-Masa-LFT-04-print-1-700x700.png",
+            "image": "Mura-Masa-LFT-04-print-1-700x700.png",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 2:25pm  ",
+            "end_on": "Sun, 31 July 2016 3:25pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/oshi/",
+            "text": "OSHI",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/image6-700x467.jpeg",
+            "image": "image6-700x467.jpeg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 5:35pm  ",
+            "end_on": "Sun, 31 July 2016 6:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/porter-robinson/",
+            "text": "Porter Robinson",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Porter-Robinson-by-Ohno-700x467.jpg",
+            "image": "Porter-Robinson-by-Ohno-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 9:45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/poupon/",
+            "text": "POUPON",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/1071380_627618207293259_1245926418_o-700x673.jpg",
+            "image": "1071380_627618207293259_1245926418_o-700x673.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 2:00pm  ",
+            "end_on": "Sun, 31 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/pretty-lights/",
+            "text": "Pretty Lights",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/663da670729115d10650ae7abd6a396b28f86c75.jpeg",
+            "image": "663da670729115d10650ae7abd6a396b28f86c75.jpeg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 9:45pm  ",
+            "end_on": "Sat, 30 July 2016 10:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/reid-stefan/",
+            "text": "REID STEFAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10480595_370777116415897_4061324913035992312_o-700x700.jpg",
+            "image": "10480595_370777116415897_4061324913035992312_o-700x700.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 1:00pm  ",
+            "end_on": "Sat, 30 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/rezz/",
+            "text": "Rezz",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/REZZ-700x513.png",
+            "image": "REZZ-700x513.png",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 2:45pm  ",
+            "end_on": "Sat, 30 July 2016 3:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/rj/",
+            "text": "RJ",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/rj-700x467.jpg",
+            "image": "rj-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 4:00pm  ",
+            "end_on": "Sun, 31 July 2016 4:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/saint-jhn/",
+            "text": "SAINT JHN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "image": "Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:15pm  ",
+            "end_on": "Sun, 31 July 2016 1:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/saint-jhn/",
+            "text": "SAINT JHN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "image": "Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:15pm  ",
+            "end_on": "Sun, 31 July 2016 1:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/salva/",
+            "text": "Salva",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/salva.jpg",
+            "image": "salva.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 3:00pm  ",
+            "end_on": "Sat, 30 July 2016 4:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/san-holo/",
+            "text": "SAN HOLO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/12593723_949366031822115_4584751872755366409_o-700x394.jpg",
+            "image": "12593723_949366031822115_4584751872755366409_o-700x394.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 5:30pm  ",
+            "end_on": "Sat, 30 July 2016 6:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/sita-abellan-2/",
+            "text": "SITA ABELLAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/DSC01481-700x467.jpg",
+            "image": "DSC01481-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 1:00pm  ",
+            "end_on": "Sat, 30 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/slumberjack/",
+            "text": "SLUMBERJACK",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/SLUMBERJACK_PressPhoto1-700x467.jpg",
+            "image": "SLUMBERJACK_PressPhoto1-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 1:00pm  ",
+            "end_on": "Sun, 31 July 2016 1:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/slushii/",
+            "text": "SLUSHII",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Slushii-Sky-1-700x417.jpg",
+            "image": "Slushii-Sky-1-700x417.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 6:45pm  ",
+            "end_on": "Sat, 30 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/superflu/",
+            "text": "SUPERFLU",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10866028_1071669332864013_7705744163677648905_o-700x700.jpg",
+            "image": "10866028_1071669332864013_7705744163677648905_o-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 4:00pm  ",
+            "end_on": "Sat, 30 July 2016 5:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/tchami/",
+            "text": "Tchami",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/4-700x466.jpg",
+            "image": "4-700x466.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 7:20pm  ",
+            "end_on": "Sat, 30 July 2016 8:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/team-ezy/",
+            "text": "TEAM EZY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/teamezy-700x467.jpg",
+            "image": "teamezy-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 2:00pm  ",
+            "end_on": "Sun, 31 July 2016 3:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/travi-scott/",
+            "text": "TRAVI$ SCOTT",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Travis-Scott-Facebook-2-700x439.jpg",
+            "image": "Travis-Scott-Facebook-2-700x439.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 6:10pm  ",
+            "end_on": "Sat, 30 July 2016 7:10pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ty-dolla-ign/",
+            "text": "TY DOLLA $IGN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Ty-Dolla-ign-2015-Main-Pub-Jory-Lee-Cordy-2-700x467.jpg",
+            "image": "Ty-Dolla-ign-2015-Main-Pub-Jory-Lee-Cordy-2-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 7:35pm  ",
+            "end_on": "Sun, 31 July 2016 8:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/unlike-pluto/",
+            "text": "UNLIKE PLUTO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/IMG_0013-700x521.jpg",
+            "image": "IMG_0013-700x521.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 2:15pm  ",
+            "end_on": "Sat, 30 July 2016 3:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/vindata/",
+            "text": "Vindata",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/IMG_5466-700x467.jpg",
+            "image": "IMG_5466-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 6:30pm  ",
+            "end_on": "Sun, 31 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/wax-motif/",
+            "text": "Wax Motif",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/unnamed-16-700x466.jpg",
+            "image": "unnamed-16-700x466.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 3:05pm  ",
+            "end_on": "Sat, 30 July 2016 4:05pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/whethan/",
+            "text": "WHETHAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/whethan-700x467.jpg",
+            "image": "whethan-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 1:00pm  ",
+            "end_on": "Sun, 31 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/will-clarke/",
+            "text": "Will Clarke",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/WillClarke-700x439.jpg",
+            "image": "WillClarke-700x439.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 2:00pm  ",
+            "end_on": "Sat, 30 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/wood-holly/",
+            "text": "WOOD HOLLY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10370819_1079812062083041_7973928637994852402_n-700x700.jpg",
+            "image": "10370819_1079812062083041_7973928637994852402_n-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 3:00pm  ",
+            "end_on": "Sun, 31 July 2016 4:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/zeds-dead/",
+            "text": "Zeds Dead",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/IMG_6850-700x485.jpg",
+            "image": "IMG_6850-700x485.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 6:40pm  ",
+            "end_on": "Sun, 31 July 2016 7:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ac-slater/",
+            "text": "Ac Slater",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/AC-Slater-e1444114495815.jpg",
+            "image": "AC-Slater-e1444114495815.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 8:00pm  ",
+            "end_on": "Sun, 31 July 2016 9:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ac-slater/",
+            "text": "Ac Slater",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/AC-Slater-e1444114495815.jpg",
+            "image": "AC-Slater-e1444114495815.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 8:00pm  ",
+            "end_on": "Sun, 31 July 2016 9:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ac-slater/",
+            "text": "Ac Slater",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/AC-Slater-e1444114495815.jpg",
+            "image": "AC-Slater-e1444114495815.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 8:00pm  ",
+            "end_on": "Sun, 31 July 2016 9:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/alunageorge/",
+            "text": "ALUNAGEORGE",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/AlunaGeorge_PressPhoto-700x446.png",
+            "image": "AlunaGeorge_PressPhoto-700x446.png",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 6:20pm  ",
+            "end_on": "Sun, 31 July 2016 7:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/amine-edge-dance/",
+            "text": "Amine Edge & Dance",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/download.png",
+            "image": "download.png",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 6:00pm  ",
+            "end_on": "Sun, 31 July 2016 7:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/anderson-paak/",
+            "text": "ANDERSON .PAAK & THE FREE NATIONALS",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/anderson-paak_wide-c50fcd0444143b7d305718a1f28f9bcc5ec22255-700x394.jpg",
+            "image": "anderson-paak_wide-c50fcd0444143b7d305718a1f28f9bcc5ec22255-700x394.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 5:35pm  ",
+            "end_on": "Sat, 30 July 2016 6:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/andhim/",
+            "text": "ANDHIM",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/andhim_press_pic_2014_akward3-770x540-700x491.jpg",
+            "image": "andhim_press_pic_2014_akward3-770x540-700x491.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 6:00pm  ",
+            "end_on": "Sat, 30 July 2016 7:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ape-drums/",
+            "text": "APE DRUMS",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/IMG_0217-700x467.jpeg",
+            "image": "IMG_0217-700x467.jpeg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 2:00pm  ",
+            "end_on": "Sat, 30 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ardalan/",
+            "text": "Ardalan",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/A16-700x467.jpg",
+            "image": "A16-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 3:00pm  ",
+            "end_on": "Sat, 30 July 2016 4:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/baauer/",
+            "text": "Baauer",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Safaeian_X0A7680-resized-700x467.jpg",
+            "image": "Safaeian_X0A7680-resized-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 7:00pm  ",
+            "end_on": "Sat, 30 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/baauer/",
+            "text": "Baauer",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Safaeian_X0A7680-resized-700x467.jpg",
+            "image": "Safaeian_X0A7680-resized-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 7:00pm  ",
+            "end_on": "Sat, 30 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/autoerotique/",
+            "text": "AUTOEROTIQUE",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10830534_10153260438189887_6260982992596940145_o-700x467.jpg",
+            "image": "10830534_10153260438189887_6260982992596940145_o-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 1:00pm  ",
+            "end_on": "Sun, 31 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/bear-grillz/",
+            "text": "BEAR GRILLZ",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/NewBear-700x700.png",
+            "image": "NewBear-700x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:55pm  ",
+            "end_on": "Sun, 31 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/belly/",
+            "text": "BELLY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/12814373_10153265299416854_3153707403844518333_n.png",
+            "image": "12814373_10153265299416854_3153707403844518333_n.png",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 8:10pm  ",
+            "end_on": "Sat, 30 July 2016 9:10pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/bixel-boys/",
+            "text": "BIXEL BOYS",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/PressPhoto1.jpg",
+            "image": "PressPhoto1.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 3:30pm  ",
+            "end_on": "Sun, 31 July 2016 5:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/bob-moses/",
+            "text": "BOB MOSES",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/bobmosespressphoto-700x467.jpg",
+            "image": "bobmosespressphoto-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 5:00pm  ",
+            "end_on": "Sun, 31 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/bixel-boys/",
+            "text": "BIXEL BOYS",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/PressPhoto1.jpg",
+            "image": "PressPhoto1.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 3:30pm  ",
+            "end_on": "Sun, 31 July 2016 5:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/boys-noize/",
+            "text": "Boys Noize",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Boys-Noize2016-1084-700x467.jpg",
+            "image": "Boys-Noize2016-1084-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 8:15pm  ",
+            "end_on": "Sun, 31 July 2016 9:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/brodinski/",
+            "text": "Brodinski",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/cDimitri_Barclay-700x467.jpg",
+            "image": "cDimitri_Barclay-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 7:15pm  ",
+            "end_on": "Sun, 31 July 2016 8:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/claude-vonstroke/",
+            "text": "Claude Vonstroke",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/untitled-article-1414421334-700x394.jpg",
+            "image": "untitled-article-1414421334-700x394.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 9:45pm  ",
+            "end_on": "Sat, 30 July 2016 10:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/desiigner/",
+            "text": "DESIIGNER",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Desiigner_TIC_9_timvpl-700x467.jpg",
+            "image": "Desiigner_TIC_9_timvpl-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 7:40pm  ",
+            "end_on": "Sun, 31 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/destructo/",
+            "text": "Destructo",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/destructo1-700x700.jpg",
+            "image": "destructo1-700x700.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 5:05pm  ",
+            "end_on": "Sat, 30 July 2016 6:05pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dizzee-rascal/",
+            "text": "DIZZEE RASCAL",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Dizzee-Rascal-700x457.jpg",
+            "image": "Dizzee-Rascal-700x457.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 11:00pm  ",
+            "end_on": "Sat, 30 July 2016 undefined  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dillon-francis/",
+            "text": "Dillon Francis",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/PressPhotoCover-700x700.png",
+            "image": "PressPhotoCover-700x700.png",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 8:05pm  ",
+            "end_on": "Sun, 31 July 2016 9:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-dodger-stadium/",
+            "text": "DJ DODGER STADIUM",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/dj-dodger-stadium-700x394.jpg",
+            "image": "dj-dodger-stadium-700x394.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 4:30pm  ",
+            "end_on": "Sat, 30 July 2016 5:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-khaled/",
+            "text": "DJ KHALED",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/khaled-700x463.jpg",
+            "image": "khaled-700x463.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 4:30pm  ",
+            "end_on": "Sat, 30 July 2016 5:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-mustard/",
+            "text": "Dj Mustard",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "image": "Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 8:40pm  ",
+            "end_on": "Sun, 31 July 2016 9:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-mustard/",
+            "text": "Dj Mustard",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "image": "Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 8:40pm  ",
+            "end_on": "Sun, 31 July 2016 9:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dombresky/",
+            "text": "DOMBRESKY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/12829203_754080701358550_2276817186814622210_o-700x417.jpg",
+            "image": "12829203_754080701358550_2276817186814622210_o-700x417.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 1:45pm  ",
+            "end_on": "Sat, 30 July 2016 2:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/dj-mustard/",
+            "text": "Dj Mustard",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "image": "Photo-Jan-24-12-26-32-AM-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 8:40pm  ",
+            "end_on": "Sun, 31 July 2016 9:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/drezo/",
+            "text": "DREZO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/drezo-700x467.jpg",
+            "image": "drezo-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 2:45pm  ",
+            "end_on": "Sat, 30 July 2016 3:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/drezo/",
+            "text": "DREZO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/drezo-700x467.jpg",
+            "image": "drezo-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 2:45pm  ",
+            "end_on": "Sat, 30 July 2016 3:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ekali/",
+            "text": "EKALI",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/flume-vince-staples-smoke-and-retribution-ekali-remix-0-700x467.jpg",
+            "image": "flume-vince-staples-smoke-and-retribution-ekali-remix-0-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 5:00pm  ",
+            "end_on": "Sun, 31 July 2016 6:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/fakear/",
+            "text": "FAKEAR",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/fakear-700x700.jpg",
+            "image": "fakear-700x700.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 1:20pm  ",
+            "end_on": "Sun, 31 July 2016 2:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/fakear/",
+            "text": "FAKEAR",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/fakear-700x700.jpg",
+            "image": "fakear-700x700.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 1:20pm  ",
+            "end_on": "Sun, 31 July 2016 2:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/fat-joe/",
+            "text": "Fat Joe",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/fat-joe-at-hot-97-summer-jam-700x467.jpg",
+            "image": "fat-joe-at-hot-97-summer-jam-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 5:55pm  ",
+            "end_on": "Sun, 31 July 2016 6:25pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/felix-da-housecat/",
+            "text": "Felix Da Housecat",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/unnamed-12-700x700.jpg",
+            "image": "unnamed-12-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 8:30pm  ",
+            "end_on": "Sat, 30 July 2016 9:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/flosstradamus/",
+            "text": "Flosstradamus",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Floss-Press2015-700x467.jpg",
+            "image": "Floss-Press2015-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 10:00pm  ",
+            "end_on": "Sat, 30 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ghastly/",
+            "text": "Ghastly",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/12792121_945709592209843_2158359592506519097_o-700x467.jpg",
+            "image": "12792121_945709592209843_2158359592506519097_o-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 8:00pm  ",
+            "end_on": "Sat, 30 July 2016 9:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/graves/",
+            "text": "GRAVES",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10285801_302368813260702_8535052931048443290_o-700x467.jpg",
+            "image": "10285801_302368813260702_8535052931048443290_o-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 1:00pm  ",
+            "end_on": "Sat, 30 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/green-velvet/",
+            "text": "Green Velvet",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/green-velvet-700x700.jpg",
+            "image": "green-velvet-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 8:30pm  ",
+            "end_on": "Sun, 31 July 2016 9:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/haywyre/",
+            "text": "Haywyre",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/5-Nyc002-@-Best-Buy-Theater-Dani-Gol ein-picsbydani.com_-700x467.jpg",
+            "image": "5-Nyc002-@-Best-Buy-Theater-Dani-Gol ein-picsbydani.com_-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 3:40pm  ",
+            "end_on": "Sun, 31 July 2016 4:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/herobust/",
+            "text": "HEROBUST",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/heRobust-351-700x467.jpg",
+            "image": "heRobust-351-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 9:30pm  ",
+            "end_on": "Sat, 30 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ice-cube/",
+            "text": "ICE CUBE",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10443009_10152531964971265_7638716204454684085_o-700x557.jpg",
+            "image": "10443009_10152531964971265_7638716204454684085_o-700x557.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 8:35pm  ",
+            "end_on": "Sat, 30 July 2016 9:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/jackmaster/",
+            "text": "Jackmaster",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Richard-Johnson-Jackmaster-Parklife-2015-64453da0-0cb2-11e5-a38d-92ce347ad47a-Web-700x467.jpeg",
+            "image": "Richard-Johnson-Jackmaster-Parklife-2015-64453da0-0cb2-11e5-a38d-92ce347ad47a-Web-700x467.jpeg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 (;45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm)  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/jerry-folk/",
+            "text": "JERRY FOLK",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/IMG_0672-700x700.png",
+            "image": "IMG_0672-700x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 3:30pm  ",
+            "end_on": "Sat, 30 July 2016 4:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/jai-wolf/",
+            "text": "Jai Wolf",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Jai-Wolf-700x571.jpg",
+            "image": "Jai-Wolf-700x571.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 3:55pm  ",
+            "end_on": "Sun, 31 July 2016 4:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/josh-pan/",
+            "text": "JOSH PAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/josh-pan-2-700x467.jpg",
+            "image": "josh-pan-2-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 4:15pm  ",
+            "end_on": "Sat, 30 July 2016 5:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/justin-jay/",
+            "text": "Justin Jay",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/13087095_1029827767096265_6610071082121558868_o-700x464.jpg",
+            "image": "13087095_1029827767096265_6610071082121558868_o-700x464.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 5:00pm  ",
+            "end_on": "Sat, 30 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/justin-jay/",
+            "text": "Justin Jay",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/13087095_1029827767096265_6610071082121558868_o-700x464.jpg",
+            "image": "13087095_1029827767096265_6610071082121558868_o-700x464.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 5:00pm  ",
+            "end_on": "Sat, 30 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/justin-martin/",
+            "text": "Justin Martin",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/13086765_1054660221258152_5222996514132149668_o-700x467.jpg",
+            "image": "13086765_1054660221258152_5222996514132149668_o-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 5:00pm  ",
+            "end_on": "Sat, 30 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/justin-martin/",
+            "text": "Justin Martin",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/13086765_1054660221258152_5222996514132149668_o-700x467.jpg",
+            "image": "13086765_1054660221258152_5222996514132149668_o-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 5:00pm  ",
+            "end_on": "Sat, 30 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kaytranada/",
+            "text": "Kaytranada",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Kaytranada_PhotoByLiamMcCrae_2-1-700x700.png",
+            "image": "Kaytranada_PhotoByLiamMcCrae_2-1-700x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 9:45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kayzo/",
+            "text": "KAYZO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/kayzo-hands-1-700x467.png",
+            "image": "kayzo-hands-1-700x467.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 4:30pm  ",
+            "end_on": "Sun, 31 July 2016 5:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kid-jay/",
+            "text": "KID JAY",
+            "image_link": "",
+            "image": "",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 3:00pm  ",
+            "end_on": "Sun, 31 July 2016 4:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kill-the-noise/",
+            "text": "Kill The Noise",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Kill-The-Noise-700x469.jpeg",
+            "image": "Kill-The-Noise-700x469.jpeg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 4:55pm  ",
+            "end_on": "Sun, 31 July 2016 5:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/kolombo/",
+            "text": "KOLOMBO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/kolombo-700x472.png",
+            "image": "kolombo-700x472.png",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 5:00pm  ",
+            "end_on": "Sun, 31 July 2016 6:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/lil-uzi-vert/",
+            "text": "LIL UZI VERT",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/lil-uzi-vert-wiz-khalifa-2-chainz-countin-0-700x467.jpg",
+            "image": "lil-uzi-vert-wiz-khalifa-2-chainz-countin-0-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 6:45pm  ",
+            "end_on": "Sun, 31 July 2016 7:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/louis-futon/",
+            "text": "LOUIS FUTON",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/LF-30-700x467.jpg",
+            "image": "LF-30-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 1:55pm  ",
+            "end_on": "Sun, 31 July 2016 2:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/louis-the-child/",
+            "text": "LOUIS THE CHILD",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/LTC_1-700x467.jpg",
+            "image": "LTC_1-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 5:30pm  ",
+            "end_on": "Sat, 30 July 2016 6:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/louis-the-child/",
+            "text": "LOUIS THE CHILD",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/LTC_1-700x467.jpg",
+            "image": "LTC_1-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 5:30pm  ",
+            "end_on": "Sat, 30 July 2016 6:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/lunice/",
+            "text": "Lunice",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Lunice_4-700x700.jpg",
+            "image": "Lunice_4-700x700.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 6:50pm  ",
+            "end_on": "Sat, 30 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/madeon/",
+            "text": "MADEON",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2015-01-15-at-15.29.41-700x700.png",
+            "image": "Screen-Shot-2015-01-15-at-15.29.41-700x700.png",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 8:15pm  ",
+            "end_on": "Sat, 30 July 2016 9:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/major-lazer/",
+            "text": "Major Lazer",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/MajorLazer_9-700x467.jpg",
+            "image": "MajorLazer_9-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 9:45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/major-lazer/",
+            "text": "Major Lazer",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/MajorLazer_9-700x467.jpg",
+            "image": "MajorLazer_9-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 9:45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/malaa/",
+            "text": "MALAA",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/MALAA-PRESS-PHOTO.png",
+            "image": "MALAA-PRESS-PHOTO.png",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 3:00pm  ",
+            "end_on": "Sat, 30 July 2016 4:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/malaa/",
+            "text": "MALAA",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/MALAA-PRESS-PHOTO.png",
+            "image": "MALAA-PRESS-PHOTO.png",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 3:00pm  ",
+            "end_on": "Sat, 30 July 2016 4:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/martin-buttrich/",
+            "text": "MARTIN BUTTRICH",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/unspecified-700x700.jpg",
+            "image": "unspecified-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 4:00pm  ",
+            "end_on": "Sun, 31 July 2016 5:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/milo-otis/",
+            "text": "Milo & Otis",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/14021-700x467.jpg",
+            "image": "14021-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 9:30pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/mr-carmack/",
+            "text": "Mr. Carmack",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Mr-Carmack-Red-EP-Free-Download-700x450.jpg",
+            "image": "Mr-Carmack-Red-EP-Free-Download-700x450.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 8:55pm  ",
+            "end_on": "Sat, 30 July 2016 9:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/mura-masa/",
+            "text": "MURA MASA",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Mura-Masa-LFT-04-print-1-700x700.png",
+            "image": "Mura-Masa-LFT-04-print-1-700x700.png",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 2:25pm  ",
+            "end_on": "Sun, 31 July 2016 3:25pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/mura-masa/",
+            "text": "MURA MASA",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Mura-Masa-LFT-04-print-1-700x700.png",
+            "image": "Mura-Masa-LFT-04-print-1-700x700.png",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 2:25pm  ",
+            "end_on": "Sun, 31 July 2016 3:25pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/mura-masa/",
+            "text": "MURA MASA",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Mura-Masa-LFT-04-print-1-700x700.png",
+            "image": "Mura-Masa-LFT-04-print-1-700x700.png",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 2:25pm  ",
+            "end_on": "Sun, 31 July 2016 3:25pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/oshi/",
+            "text": "OSHI",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/image6-700x467.jpeg",
+            "image": "image6-700x467.jpeg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 5:35pm  ",
+            "end_on": "Sun, 31 July 2016 6:40pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/porter-robinson/",
+            "text": "Porter Robinson",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/Porter-Robinson-by-Ohno-700x467.jpg",
+            "image": "Porter-Robinson-by-Ohno-700x467.jpg",
+            "stage": "Harder Stage",
+            "start_on": "Sun, 31 July 2016 9:45pm  ",
+            "end_on": "Sun, 31 July 2016 11:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/poupon/",
+            "text": "POUPON",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/1071380_627618207293259_1245926418_o-700x673.jpg",
+            "image": "1071380_627618207293259_1245926418_o-700x673.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 2:00pm  ",
+            "end_on": "Sun, 31 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/pretty-lights/",
+            "text": "Pretty Lights",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/663da670729115d10650ae7abd6a396b28f86c75.jpeg",
+            "image": "663da670729115d10650ae7abd6a396b28f86c75.jpeg",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 9:45pm  ",
+            "end_on": "Sat, 30 July 2016 10:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/reid-stefan/",
+            "text": "REID STEFAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10480595_370777116415897_4061324913035992312_o-700x700.jpg",
+            "image": "10480595_370777116415897_4061324913035992312_o-700x700.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 1:00pm  ",
+            "end_on": "Sat, 30 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/rezz/",
+            "text": "Rezz",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/REZZ-700x513.png",
+            "image": "REZZ-700x513.png",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 2:45pm  ",
+            "end_on": "Sat, 30 July 2016 3:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/rezz/",
+            "text": "Rezz",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/REZZ-700x513.png",
+            "image": "REZZ-700x513.png",
+            "stage": "Harder Stage",
+            "start_on": "Sat, 30 July 2016 2:45pm  ",
+            "end_on": "Sat, 30 July 2016 3:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/rj/",
+            "text": "RJ",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/rj-700x467.jpg",
+            "image": "rj-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 4:00pm  ",
+            "end_on": "Sun, 31 July 2016 4:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/saint-jhn/",
+            "text": "SAINT JHN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "image": "Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:15pm  ",
+            "end_on": "Sun, 31 July 2016 1:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/saint-jhn/",
+            "text": "SAINT JHN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "image": "Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:15pm  ",
+            "end_on": "Sun, 31 July 2016 1:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/saint-jhn/",
+            "text": "SAINT JHN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "image": "Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:15pm  ",
+            "end_on": "Sun, 31 July 2016 1:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/salva/",
+            "text": "Salva",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/salva.jpg",
+            "image": "salva.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 3:00pm  ",
+            "end_on": "Sat, 30 July 2016 4:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/saint-jhn/",
+            "text": "SAINT JHN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "image": "Screen-Shot-2016-05-16-at-4.45.56-PM-697x700.png",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 1:15pm  ",
+            "end_on": "Sun, 31 July 2016 1:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/san-holo/",
+            "text": "SAN HOLO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/12593723_949366031822115_4584751872755366409_o-700x394.jpg",
+            "image": "12593723_949366031822115_4584751872755366409_o-700x394.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 5:30pm  ",
+            "end_on": "Sat, 30 July 2016 6:45pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/sita-abellan-2/",
+            "text": "SITA ABELLAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/DSC01481-700x467.jpg",
+            "image": "DSC01481-700x467.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 1:00pm  ",
+            "end_on": "Sat, 30 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/slumberjack/",
+            "text": "SLUMBERJACK",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/SLUMBERJACK_PressPhoto1-700x467.jpg",
+            "image": "SLUMBERJACK_PressPhoto1-700x467.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 1:00pm  ",
+            "end_on": "Sun, 31 July 2016 1:55pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/slushii/",
+            "text": "SLUSHII",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Slushii-Sky-1-700x417.jpg",
+            "image": "Slushii-Sky-1-700x417.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sat, 30 July 2016 6:45pm  ",
+            "end_on": "Sat, 30 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/tchami/",
+            "text": "Tchami",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/4-700x466.jpg",
+            "image": "4-700x466.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 7:20pm  ",
+            "end_on": "Sat, 30 July 2016 8:20pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/superflu/",
+            "text": "SUPERFLU",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10866028_1071669332864013_7705744163677648905_o-700x700.jpg",
+            "image": "10866028_1071669332864013_7705744163677648905_o-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 4:00pm  ",
+            "end_on": "Sat, 30 July 2016 5:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/team-ezy/",
+            "text": "TEAM EZY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/teamezy-700x467.jpg",
+            "image": "teamezy-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 2:00pm  ",
+            "end_on": "Sun, 31 July 2016 3:30pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/travi-scott/",
+            "text": "TRAVI$ SCOTT",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Travis-Scott-Facebook-2-700x439.jpg",
+            "image": "Travis-Scott-Facebook-2-700x439.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 6:10pm  ",
+            "end_on": "Sat, 30 July 2016 7:10pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/ty-dolla-ign/",
+            "text": "TY DOLLA $IGN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/Ty-Dolla-ign-2015-Main-Pub-Jory-Lee-Cordy-2-700x467.jpg",
+            "image": "Ty-Dolla-ign-2015-Main-Pub-Jory-Lee-Cordy-2-700x467.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sun, 31 July 2016 7:35pm  ",
+            "end_on": "Sun, 31 July 2016 8:35pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/unlike-pluto/",
+            "text": "UNLIKE PLUTO",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/IMG_0013-700x521.jpg",
+            "image": "IMG_0013-700x521.jpg",
+            "stage": "Purple Stage",
+            "start_on": "Sat, 30 July 2016 2:15pm  ",
+            "end_on": "Sat, 30 July 2016 3:15pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/wax-motif/",
+            "text": "Wax Motif",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/unnamed-16-700x466.jpg",
+            "image": "unnamed-16-700x466.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sat, 30 July 2016 3:05pm  ",
+            "end_on": "Sat, 30 July 2016 4:05pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/vindata/",
+            "text": "Vindata",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/IMG_5466-700x467.jpg",
+            "image": "IMG_5466-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 6:30pm  ",
+            "end_on": "Sun, 31 July 2016 8:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/whethan/",
+            "text": "WHETHAN",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/07/whethan-700x467.jpg",
+            "image": "whethan-700x467.jpg",
+            "stage": "Green Stage",
+            "start_on": "Sun, 31 July 2016 1:00pm  ",
+            "end_on": "Sun, 31 July 2016 2:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/will-clarke/",
+            "text": "Will Clarke",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/WillClarke-700x439.jpg",
+            "image": "WillClarke-700x439.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sat, 30 July 2016 2:00pm  ",
+            "end_on": "Sat, 30 July 2016 3:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/wood-holly/",
+            "text": "WOOD HOLLY",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/05/10370819_1079812062083041_7973928637994852402_n-700x700.jpg",
+            "image": "10370819_1079812062083041_7973928637994852402_n-700x700.jpg",
+            "stage": "Pink Stage",
+            "start_on": "Sun, 31 July 2016 3:00pm  ",
+            "end_on": "Sun, 31 July 2016 4:00pm  "
+        },
+        {
+            "link": "http://hardfest.com/hardsummer/artist/zeds-dead/",
+            "text": "Zeds Dead",
+            "image_link": "http://hardfest.manufactur.co/wp-content/uploads/2016/04/IMG_6850-700x485.jpg",
+            "image": "IMG_6850-700x485.jpg",
+            "stage": "Hard Stage",
+            "start_on": "Sun, 31 July 2016 6:40pm  ",
+            "end_on": "Sun, 31 July 2016 7:40pm  "
+        }
+    ]
+}
